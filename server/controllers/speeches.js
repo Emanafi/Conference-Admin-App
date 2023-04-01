@@ -1,4 +1,4 @@
-import Speech from '../models/Speech.js';
+import Speech from '../models/speech.js';
 import { generateSort } from '../helpers/helper.js';
 /**
  * Refine queries to take into account the current year

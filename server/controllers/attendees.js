@@ -1,4 +1,4 @@
-import Attendee from '../models/Attendee.js';
+import Attendee from '../models/attendee.js';
 import { generateSort } from '../helpers/helper.js';
 /**
  * Refine queries to take into account the current year
